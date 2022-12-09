@@ -1,0 +1,21 @@
+{
+    "name": "dipesh79/laravel-payeer-checkout",
+    "description": "Laravel Payeer Checkout - A simple laravel package to implement payeer checkout.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dipesh79\\LaravelPayeerCheckout\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dipesh79",
+            "email": "dipeshkhanal79@gmail.com",
+            "homepage": "https://www.khanaldipesh.com.np",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
