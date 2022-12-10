@@ -17,5 +17,12 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Dipesh79\\LaravelPayeerCheckout\\PayeerServiceProvider"
+            ]   
+        }
+    }
 }
