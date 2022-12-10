@@ -16,13 +16,6 @@
             "role": "Developer"
         }
     ],
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Dipesh79\\LaravelPayeerCheckout\\src\\PayeerServiceProvider"
-            ]
-        }
-    },
     "minimum-stability": "dev",
     "require": {}
 }
