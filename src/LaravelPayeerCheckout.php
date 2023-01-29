@@ -16,6 +16,14 @@ class LaravelPayeerCheckout
 
     public function payeerCheckout($amount, $order, $description, $curency = 'USD')
     {
+        if (!$this->shop)
+        {
+            throw new \Exception("Shop Id Not Found");
+        }
+        if (!$this->merchant_key)
+        {
+            throw new \Exception("Merchant Key Not Found");
+        }
         $m_amount = number_format($amount, 2, '.', '');
         $m_shop = $this->shop;
         $m_order_id = $order;
