@@ -1,4 +1,4 @@
-
+![Laravel Payeer Checkout Package](https://banners.beyondco.de/Laravel%20Payeer%20Checkout.png?theme=light&packageManager=composer+require&packageName=dipesh79%2Flaravel-payeer-checkout&pattern=architect&style=style_1&description=Laravel+Payeer+Checkout+-+A+simple+laravel+package+to+implement+payeer+checkout.&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg)
 # Laravel Payeer Checkout
 
 This Laravel package allows you to create payment using Payeer.
